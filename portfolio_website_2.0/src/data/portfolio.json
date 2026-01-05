@@ -1,0 +1,82 @@
+[
+  {
+    "id": 1,
+    "title": "Alumni Network",
+    "image": "Alumni.png",
+    "githubLink": "https://github.com/BCA-Alumni-Portal/Alumni-Portal",
+    "tags": ["React", "Auth0", "SQL"],
+    "video": "link"
+  },
+  {
+    "id": 2,
+    "title": "Digital BlackJack",
+    "image": "BlackJack.png",
+    "githubLink": "https://github.com/Yun505/Midyear-Project-Blackjack",
+    "tags": ["Python", "Tkinter"],
+    "video": "link"
+  },
+  {
+    "id": 3,
+    "title": "BiteQuest",
+    "image": "brown.png",
+    "githubLink": "https://devpost.com/software/bitequest",
+    "tags": ["Flutter", "MongoDB", "flask"],
+    "video": "link"
+  },
+  {
+    "id": 4,
+    "title": "Ap Micro Dating Simulator",
+    "image": "Micro.png",
+    "githubLink": "https://github.com/Yun505/MicroDatingSimulation",
+    "tags": ["Ren'Py", "Python"],
+    "video": "link"
+  },
+  {
+    "id": 5,
+    "title": "MoveMatic",
+    "image": "move.png",
+    "githubLink": "https://github.com/Yun505/JVXH_MIT_HACK",
+    "tags": ["FastAPI", "MongoDB", "AIST++Dataset", "Suno AI"],
+    "video": "link"
+  },
+  {
+    "id": 6,
+    "title": "Music Classifier",
+    "image": "Music.png",
+    "githubLink": "https://github.com/Yun505/MusicClassifier",
+    "tags": ["Python", "ML"],
+    "video": "link"
+  },
+  {
+    "id": 7,
+    "title": "Natto Obstacle Course",
+    "image": "Natto.png",
+    "githubLink": "https://github.com/Yun505/Natto_Obstacle_Course",
+    "tags": ["C#", "Unity"],
+    "video": null
+  },
+  {
+    "id": 8,
+    "title": "Resy Roulette ",
+    "image": "resy.png",
+    "githubLink": "https://github.com/Yun505/resy_roulette",
+    "tags": ["Resy API", "Flask"],
+    "video": null
+  },
+  {
+    "id": 9,
+    "title": "Rocket Simulation",
+    "image": "Rocket.png",
+    "githubLink": "https://github.com/Yun505/rocket",
+    "tags": ["C#", "Unity"],
+    "video": "link"
+  },
+  {
+    "id": 10,
+    "title": "X Sentiment Analysis",
+    "image": "sentiment.png",
+    "githubLink": "https://github.com/Yun505/Matching-Engine",
+    "tags": ["Python", "X API"],
+    "video": null
+  }
+]
