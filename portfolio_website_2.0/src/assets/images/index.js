@@ -10,6 +10,7 @@ import resy from './resy.png';
 import Rocket from './Rocket.png';
 import sentiment from './sentiment.png';
 import twitter from './twitter.png';
+import cfs from './cfs.png';
 
 export const projectImages = {
   'Alumni.png': Alumni,
@@ -24,4 +25,5 @@ export const projectImages = {
   'Rocket.png': Rocket,
   'sentiment.png': sentiment,
   'twitter.png': twitter,
+  'cfs.png': cfs,
 };
