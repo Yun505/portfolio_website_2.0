@@ -11,6 +11,7 @@ import Rocket from './Rocket.png';
 import sentiment from './sentiment.png';
 import twitter from './twitter.png';
 import cfs from './cfs.png';
+import vpn from './vpn.png';
 
 export const projectImages = {
   'Alumni.png': Alumni,
@@ -26,4 +27,5 @@ export const projectImages = {
   'sentiment.png': sentiment,
   'twitter.png': twitter,
   'cfs.png': cfs,
+  'vpn.png': vpn,
 };
